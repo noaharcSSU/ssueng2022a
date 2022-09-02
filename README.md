@@ -1,6 +1,7 @@
 - This is the  @ssueng2022a  public space for 
 - SSU ENG Capstone Engineering project on a 🌱 rechargeable battery life extender 🌱
 
+Enter at https://github.com/ssueng2022a/ssueng2022a/wiki
 
 <!---
 ssueng2022a/ssueng2022a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
